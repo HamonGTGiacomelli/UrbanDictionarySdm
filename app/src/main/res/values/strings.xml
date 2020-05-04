@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UrbanDictSdm</string>
+    <string name="digite_uma_palavra">Digite uma palavra (em inglês)</string>
+    <string name="definir">Definir</string>
+    <string name="urban_dictionary_sdm">Urban Dictionary SDM</string>
+    <string name="convert">Converter</string>
+    <string name="valueToBeConverted">Valor a ser convertido</string>
+</resources>
